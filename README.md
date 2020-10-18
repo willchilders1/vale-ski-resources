@@ -1,0 +1,1 @@
+# vale-ski-resources
